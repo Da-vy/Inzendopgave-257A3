@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Standings>
+  <Team>
+    <Naam>Naam Team</Naam>
+    <Gespeeld>Aantal wedstrijden gespeeld</Gespeeld>
+    <Gewonnen>Aantal wedstrijden gewonnen</Gewonnen>
+    <Verloren>Aantal wedstrijden verloren</Verloren>
+    <Gelijkspel>Aantal wedstrijden gelijk gespeeld</Gelijkspel>
+    <Dooelsaldo>Doelsaldo</Dooelsaldo>
+    <Punten>Punten</Punten>
+  </Team>
+  <Team>
+    <Naam>Chicago Bulls</Naam>
+    <Gespeeld>62</Gespeeld>
+    <Gewonnen>34</Gewonnen>
+    <Verloren>12</Verloren>
+    <Gelijkspel>16</Gelijkspel>
+    <Dooelsaldo>93</Dooelsaldo>
+    <Punten>118</Punten>
+  </Team>
+  <Team>
+    <Naam>Los Angeles Lakers</Naam>
+    <Gespeeld>55</Gespeeld>
+    <Gewonnen>12</Gewonnen>
+    <Verloren>31</Verloren>
+    <Gelijkspel>12</Gelijkspel>
+    <Dooelsaldo>-63</Dooelsaldo>
+    <Punten>48</Punten>
+  </Team>
+  <Team>
+    <Naam>Los Angeles Clippers</Naam>
+    <Gespeeld>9</Gespeeld>
+    <Gewonnen>2</Gewonnen>
+    <Verloren>5</Verloren>
+    <Gelijkspel>2</Gelijkspel>
+    <Dooelsaldo>-30</Dooelsaldo>
+    <Punten>8</Punten>
+  </Team>
+  <Team>
+    <Naam>Utah Jazz</Naam>
+    <Gespeeld>2</Gespeeld>
+    <Gewonnen>0</Gewonnen>
+    <Verloren>0</Verloren>
+    <Gelijkspel>2</Gelijkspel>
+    <Dooelsaldo>0</Dooelsaldo>
+    <Punten>2</Punten>
+  </Team>
+  <Team>
+    <Naam>Houston Rockets</Naam>
+    <Gespeeld>2</Gespeeld>
+    <Gewonnen>0</Gewonnen>
+    <Verloren>0</Verloren>
+    <Gelijkspel>2</Gelijkspel>
+    <Dooelsaldo>0</Dooelsaldo>
+    <Punten>2</Punten>
+  </Team>
+  <Team>
+    <Naam>Chicago Bulls</Naam>
+    <Gespeeld>63</Gespeeld>
+    <Gewonnen>34</Gewonnen>
+    <Verloren>12</Verloren>
+    <Gelijkspel>17</Gelijkspel>
+    <Dooelsaldo>93</Dooelsaldo>
+    <Punten>119</Punten>
+  </Team>
+  <Team>
+    <Naam>Los Angeles Lakers</Naam>
+    <Gespeeld>56</Gespeeld>
+    <Gewonnen>12</Gewonnen>
+    <Verloren>31</Verloren>
+    <Gelijkspel>13</Gelijkspel>
+    <Dooelsaldo>-63</Dooelsaldo>
+    <Punten>49</Punten>
+  </Team>
+  <Team>
+    <Naam>Los Angeles Clippers</Naam>
+    <Gespeeld>9</Gespeeld>
+    <Gewonnen>2</Gewonnen>
+    <Verloren>5</Verloren>
+    <Gelijkspel>2</Gelijkspel>
+    <Dooelsaldo>-30</Dooelsaldo>
+    <Punten>8</Punten>
+  </Team>
+  <Team>
+    <Naam>Utah Jazz</Naam>
+    <Gespeeld>2</Gespeeld>
+    <Gewonnen>0</Gewonnen>
+    <Verloren>0</Verloren>
+    <Gelijkspel>2</Gelijkspel>
+    <Dooelsaldo>0</Dooelsaldo>
+    <Punten>2</Punten>
+  </Team>
+  <Team>
+    <Naam>Houston Rockets</Naam>
+    <Gespeeld>2</Gespeeld>
+    <Gewonnen>0</Gewonnen>
+    <Verloren>0</Verloren>
+    <Gelijkspel>2</Gelijkspel>
+    <Dooelsaldo>0</Dooelsaldo>
+    <Punten>2</Punten>
+  </Team>
+  <Team>
+    <Naam>Chicago Bulls</Naam>
+    <Gespeeld>64</Gespeeld>
+    <Gewonnen>35</Gewonnen>
+    <Verloren>12</Verloren>
+    <Gelijkspel>17</Gelijkspel>
+    <Dooelsaldo>97</Dooelsaldo>
+    <Punten>122</Punten>
+  </Team>
+  <Team>
+    <Naam>Los Angeles Lakers</Naam>
+    <Gespeeld>57</Gespeeld>
+    <Gewonnen>12</Gewonnen>
+    <Verloren>32</Verloren>
+    <Gelijkspel>13</Gelijkspel>
+    <Dooelsaldo>-67</Dooelsaldo>
+    <Punten>49</Punten>
+  </Team>
+  <Team>
+    <Naam>Los Angeles Clippers</Naam>
+    <Gespeeld>9</Gespeeld>
+    <Gewonnen>2</Gewonnen>
+    <Verloren>5</Verloren>
+    <Gelijkspel>2</Gelijkspel>
+    <Dooelsaldo>-30</Dooelsaldo>
+    <Punten>8</Punten>
+  </Team>
+  <Team>
+    <Naam>Utah Jazz</Naam>
+    <Gespeeld>2</Gespeeld>
+    <Gewonnen>0</Gewonnen>
+    <Verloren>0</Verloren>
+    <Gelijkspel>2</Gelijkspel>
+    <Dooelsaldo>0</Dooelsaldo>
+    <Punten>2</Punten>
+  </Team>
+  <Team>
+    <Naam>Houston Rockets</Naam>
+    <Gespeeld>2</Gespeeld>
+    <Gewonnen>0</Gewonnen>
+    <Verloren>0</Verloren>
+    <Gelijkspel>2</Gelijkspel>
+    <Dooelsaldo>0</Dooelsaldo>
+    <Punten>2</Punten>
+  </Team>
+  <Team>
+    <Naam>Chicago Bulls</Naam>
+    <Gespeeld>65</Gespeeld>
+    <Gewonnen>36</Gewonnen>
+    <Verloren>12</Verloren>
+    <Gelijkspel>17</Gelijkspel>
+    <Dooelsaldo>101</Dooelsaldo>
+    <Punten>125</Punten>
+  </Team>
+  <Team>
+    <Naam>Los Angeles Lakers</Naam>
+    <Gespeeld>58</Gespeeld>
+    <Gewonnen>12</Gewonnen>
+    <Verloren>33</Verloren>
+    <Gelijkspel>13</Gelijkspel>
+    <Dooelsaldo>-71</Dooelsaldo>
+    <Punten>49</Punten>
+  </Team>
+  <Team>
+    <Naam>Los Angeles Clippers</Naam>
+    <Gespeeld>9</Gespeeld>
+    <Gewonnen>2</Gewonnen>
+    <Verloren>5</Verloren>
+    <Gelijkspel>2</Gelijkspel>
+    <Dooelsaldo>-30</Dooelsaldo>
+    <Punten>8</Punten>
+  </Team>
+  <Team>
+    <Naam>Utah Jazz</Naam>
+    <Gespeeld>2</Gespeeld>
+    <Gewonnen>0</Gewonnen>
+    <Verloren>0</Verloren>
+    <Gelijkspel>2</Gelijkspel>
+    <Dooelsaldo>0</Dooelsaldo>
+    <Punten>2</Punten>
+  </Team>
+  <Team>
+    <Naam>Houston Rockets</Naam>
+    <Gespeeld>2</Gespeeld>
+    <Gewonnen>0</Gewonnen>
+    <Verloren>0</Verloren>
+    <Gelijkspel>2</Gelijkspel>
+    <Dooelsaldo>0</Dooelsaldo>
+    <Punten>2</Punten>
+  </Team>
+  <Team>
+    <Naam>Chicago Bulls</Naam>
+    <Gespeeld>66</Gespeeld>
+    <Gewonnen>36</Gewonnen>
+    <Verloren>13</Verloren>
+    <Gelijkspel>17</Gelijkspel>
+    <Dooelsaldo>97</Dooelsaldo>
+    <Punten>125</Punten>
+  </Team>
+  <Team>
+    <Naam>Los Angeles Lakers</Naam>
+    <Gespeeld>59</Gespeeld>
+    <Gewonnen>13</Gewonnen>
+    <Verloren>33</Verloren>
+    <Gelijkspel>13</Gelijkspel>
+    <Dooelsaldo>-67</Dooelsaldo>
+    <Punten>52</Punten>
+  </Team>
+  <Team>
+    <Naam>Los Angeles Clippers</Naam>
+    <Gespeeld>9</Gespeeld>
+    <Gewonnen>2</Gewonnen>
+    <Verloren>5</Verloren>
+    <Gelijkspel>2</Gelijkspel>
+    <Dooelsaldo>-30</Dooelsaldo>
+    <Punten>8</Punten>
+  </Team>
+  <Team>
+    <Naam>Utah Jazz</Naam>
+    <Gespeeld>2</Gespeeld>
+    <Gewonnen>0</Gewonnen>
+    <Verloren>0</Verloren>
+    <Gelijkspel>2</Gelijkspel>
+    <Dooelsaldo>0</Dooelsaldo>
+    <Punten>2</Punten>
+  </Team>
+  <Team>
+    <Naam>Houston Rockets</Naam>
+    <Gespeeld>2</Gespeeld>
+    <Gewonnen>0</Gewonnen>
+    <Verloren>0</Verloren>
+    <Gelijkspel>2</Gelijkspel>
+    <Dooelsaldo>0</Dooelsaldo>
+    <Punten>2</Punten>
+  </Team>
+  <Team>
+    <Naam>Chicago Bulls</Naam>
+    <Gespeeld>67</Gespeeld>
+    <Gewonnen>36</Gewonnen>
+    <Verloren>14</Verloren>
+    <Gelijkspel>17</Gelijkspel>
+    <Dooelsaldo>96</Dooelsaldo>
+    <Punten>125</Punten>
+  </Team>
+  <Team>
+    <Naam>Los Angeles Lakers</Naam>
+    <Gespeeld>59</Gespeeld>
+    <Gewonnen>13</Gewonnen>
+    <Verloren>33</Verloren>
+    <Gelijkspel>13</Gelijkspel>
+    <Dooelsaldo>-67</Dooelsaldo>
+    <Punten>52</Punten>
+  </Team>
+  <Team>
+    <Naam>Los Angeles Clippers</Naam>
+    <Gespeeld>10</Gespeeld>
+    <Gewonnen>3</Gewonnen>
+    <Verloren>5</Verloren>
+    <Gelijkspel>2</Gelijkspel>
+    <Dooelsaldo>-29</Dooelsaldo>
+    <Punten>11</Punten>
+  </Team>
+  <Team>
+    <Naam>Utah Jazz</Naam>
+    <Gespeeld>2</Gespeeld>
+    <Gewonnen>0</Gewonnen>
+    <Verloren>0</Verloren>
+    <Gelijkspel>2</Gelijkspel>
+    <Dooelsaldo>0</Dooelsaldo>
+    <Punten>2</Punten>
+  </Team>
+  <Team>
+    <Naam>Houston Rockets</Naam>
+    <Gespeeld>2</Gespeeld>
+    <Gewonnen>0</Gewonnen>
+    <Verloren>0</Verloren>
+    <Gelijkspel>2</Gelijkspel>
+    <Dooelsaldo>0</Dooelsaldo>
+    <Punten>2</Punten>
+  </Team>
+</Standings>

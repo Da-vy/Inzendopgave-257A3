@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Rankings>
+  <Speler>
+    <Naam>Naam Speler</Naam>
+    <Team>Naam Team</Team>
+    <Punten>Totaal aantal gescoorde punten</Punten>
+  </Speler>
+  <Speler>
+    <Naam>Scottie Pippen</Naam>
+    <Team>Chicago Bulls</Team>
+    <Punten>3</Punten>
+  </Speler>
+  <Speler>
+    <Naam>Scottie Pippen</Naam>
+    <Team>Chicago Bulls</Team>
+    <Punten>3</Punten>
+  </Speler>
+  <Speler>
+    <Naam>LeBron </Naam>
+    <Team>Los Angeles Lakers</Team>
+    <Punten>1</Punten>
+  </Speler>
+  <Speler>
+    <Naam>Scottie Pippen</Naam>
+    <Team>Chicago Bulls</Team>
+    <Punten>2</Punten>
+  </Speler>
+  <Speler>
+    <Naam>Scottie Pippen</Naam>
+    <Team>Chicago Bulls</Team>
+    <Punten>2</Punten>
+  </Speler>
+  <Speler>
+    <Naam>Kobe Bryant</Naam>
+    <Team>Los Angeles Lakers</Team>
+    <Punten>3</Punten>
+  </Speler>
+  <Speler>
+    <Naam>Kobe Bryant</Naam>
+    <Team>Los Angeles Lakers</Team>
+    <Punten>3</Punten>
+  </Speler>
+  <Speler>
+    <Naam>Scottie Pippen</Naam>
+    <Team>Chicago Bulls</Team>
+    <Punten>2</Punten>
+  </Speler>
+  <Speler>
+    <Naam>Scottie Pippen</Naam>
+    <Team>Chicago Bulls</Team>
+    <Punten>2</Punten>
+  </Speler>
+  <Speler>
+    <Naam>Kobe Bryant</Naam>
+    <Team>Los Angeles Lakers</Team>
+    <Punten>2</Punten>
+  </Speler>
+  <Speler>
+    <Naam>Kobe Bryant</Naam>
+    <Team>Los Angeles Lakers</Team>
+    <Punten>2</Punten>
+  </Speler>
+  <Speler>
+    <Naam>Scottie Pippen</Naam>
+    <Team>Chicago Bulls</Team>
+    <Punten>2</Punten>
+  </Speler>
+  <Speler>
+    <Naam>Scottie Pippen</Naam>
+    <Team>Chicago Bulls</Team>
+    <Punten>2</Punten>
+  </Speler>
+  <Speler>
+    <Naam>Michael Jordan</Naam>
+    <Team>Chicago Bulls</Team>
+    <Punten>2</Punten>
+  </Speler>
+  <Speler>
+    <Naam>Michael Jordan</Naam>
+    <Team>Chicago Bulls</Team>
+    <Punten>2</Punten>
+  </Speler>
+  <Speler>
+    <Naam>Kobe Bryant</Naam>
+    <Team>Los Angeles Lakers</Team>
+    <Punten>2</Punten>
+  </Speler>
+  <Speler>
+    <Naam>Kobe Bryant</Naam>
+    <Team>Los Angeles Lakers</Team>
+    <Punten>2</Punten>
+  </Speler>
+  <Speler>
+    <Naam>Ben</Naam>
+    <Team>Los Angeles Clippers</Team>
+    <Punten>1</Punten>
+  </Speler>
+</Rankings>

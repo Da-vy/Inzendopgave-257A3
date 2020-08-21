@@ -1,0 +1,46 @@
+﻿<Window x:Class="Inzendopgave_257A3.Windows.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Inzendopgave_257A3.Windows"
+        mc:Ignorable="d"
+        Title="Main Window" Height="450" Width="800">
+    <Grid>
+        <!--DataGrid-->
+        <DataGrid x:Name="DataGrid1" HorizontalAlignment="Left" Height="300" VerticalAlignment="Top" Width="400" Margin="10,10,0,0" AutoGenerateColumns="False" ColumnWidth="*" BorderBrush="LightGray" Foreground="Black" SelectionChanged="DataGrid1_SelectionChanged" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Team" Binding="{Binding Name}" />
+                <DataGridTextColumn Header="Player" Binding="{Binding PlayerName}" />
+                <DataGridTextColumn Header="Coach" Binding="{Binding CoachName}" />
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!--TextBlocks-->
+        <TextBlock x:Name="TextBlock1_Team" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Team:" VerticalAlignment="Top" Margin="430,35,0,0"/>
+        <TextBlock x:Name="TextBlock2_Player" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Player:" VerticalAlignment="Top" Margin="430,75,0,0"/>
+        <TextBlock x:Name="TextBlock3_Coach" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Coach:" VerticalAlignment="Top" Margin="430,115,0,0"/>
+        <TextBlock x:Name="TextBlock4_Results" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Onderhouden wedstrijden:" VerticalAlignment="Top" Margin="429,200,0,0"/>
+        <TextBlock x:Name="TextBlock5_Standings" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Stand:" VerticalAlignment="Top" Margin="429,246,0,0"/>
+        <TextBlock x:Name="TextBlock6_Rankings" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Individuele Resultaten:" VerticalAlignment="Top" Margin="429,292,0,0"/>
+        
+        <!--TextBoxes-->
+        <TextBox x:Name="TextBox1_Team" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="182" Margin="483,32,0,0" Foreground="Black"/>
+        <TextBox x:Name="TextBox2_Player" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="182" Margin="483,72,0,0" Foreground="Black"/>
+        <TextBox x:Name="TextBox3_Coach" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="182" Margin="483,112,0,0" Foreground="Black"/>
+        
+        <!--Buttons-->
+        <Button x:Name="Button1_Insert" Content="Insert" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height ="20" Margin="430,152,0,0" Click="Button1_Click_Insert"/>
+        <Button x:Name="Button2_Update" Content="Update" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height ="20" Margin="510,152,0,0" Click="Button2_Click_Update"/>
+        <Button x:Name="Button3_Delete" Content="Delete" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height ="20" Margin="590,152,0,0" Click="Button3_Click_Delete"/>
+        <Button x:Name="Button4_Reset" Content="Reset" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height ="20" Margin="687,74,0,0" Click="Button4_Click_Reset"/>
+        <Button x:Name="Button5_Help" Content="Help!" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="687,33,0,0" Click="Button5_Help_Click"/>
+        <Button x:Name="Button7_Results" Content="Results" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="590,198,0,0" Click="Button7_Results_Click"/>
+        <Button x:Name="Button6_Standings" Content="Standings" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="590,244,0,0" Click="Button6_Standings_Click"/>
+        <Button x:Name="Button8_Rankings" Content="Rankings" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="590,290,0,0" Click="Button8_Rankings_Click"/>
+
+        <!--ComboBoxes-->
+        
+
+    </Grid>
+</Window>

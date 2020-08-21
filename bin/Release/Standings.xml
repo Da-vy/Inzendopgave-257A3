@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Standings>
+  <Team>
+    <Naam>Naam Team</Naam>
+    <Gespeeld>Aantal wedstrijden gespeeld</Gespeeld>
+    <Gewonnen>Aantal wedstrijden gewonnen</Gewonnen>
+    <Verloren>Aantal wedstrijden verloren</Verloren>
+    <Gelijkspel>Aantal wedstrijden gelijk gespeeld</Gelijkspel>
+    <Dooelsaldo>Doelsaldo</Dooelsaldo>
+    <Punten>Punten</Punten>
+  </Team>
+</Standings>

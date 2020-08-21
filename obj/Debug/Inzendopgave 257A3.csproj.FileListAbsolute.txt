@@ -1,0 +1,24 @@
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\bin\Debug\Inzendopgave 257A3.exe.config
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\bin\Debug\Inzendopgave 257A3.exe
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\bin\Debug\Inzendopgave 257A3.pdb
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\obj\Debug\Inzendopgave 257A3.csprojAssemblyReference.cache
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\obj\Debug\App.g.cs
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\obj\Debug\Inzendopgave 257A3_Content.g.cs
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\obj\Debug\Inzendopgave 257A3_MarkupCompile.cache
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\obj\Debug\Inzendopgave 257A3_MarkupCompile.lref
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\obj\Debug\Inzendopgave 257A3.g.resources
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\obj\Debug\Inzendopgave_257A3.Properties.Resources.resources
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\obj\Debug\Inzendopgave 257A3.csproj.GenerateResource.cache
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\obj\Debug\Inzendopgave 257A3.csproj.CoreCompileInputs.cache
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\obj\Debug\Inzendopgave 257A3.exe
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\obj\Debug\Inzendopgave 257A3.pdb
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\obj\Debug\Windows\ResultsWindow.g.cs
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\obj\Debug\Windows\StandingsWindow.g.cs
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\obj\Debug\Windows\MainWindow.baml
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\obj\Debug\Windows\ResultsWindow.baml
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\obj\Debug\Windows\StandingsWindow.baml
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\bin\Debug\Database\NBA_DB.mdf
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\bin\Debug\Database\NBA_DB_log.ldf
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\obj\Debug\Windows\RankingsWindow.g.cs
+C:\Users\Davy de Jonge\source\repos\Inzendopgave 257A3\obj\Debug\Windows\RankingsWindow.baml

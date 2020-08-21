@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Rankings>
+  <Speler>
+    <Naam>Naam Speler</Naam>
+    <Team>Naam Team</Team>
+    <Punten>Totaal aantal gescoorde punten</Punten>
+  </Speler>
+</Rankings>
